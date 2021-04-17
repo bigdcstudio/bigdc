@@ -2,7 +2,7 @@
 Это просто инфомативный сайт.
 DCStudio это студия по созданию дискорд ботов и приложений.
 Наш сервер дискорд https://discord.gg/3CrxbhUnyM
-
+Официальный ютуб канал https://youtube.com/channel/UCDdT65wYaVTqpsI6TES_Mqw
 
 
 Правила сервера :
